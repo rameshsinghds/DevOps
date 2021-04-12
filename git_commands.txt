@@ -143,5 +143,3 @@ Git Branching
 
 Change the default branch
  git push --set-upstream origin <branchname>
-
- Adding amend command
